@@ -1,6 +1,8 @@
 [submodule "libs/EdiZon-SE"]
-	path = libs/EdiZon-SE
-	url = https://github.com/glitched-nx/EdiZon-SE.git
+    path = libs/EdiZon-SE
+    url = https://github.com/glitched-nx/EdiZon-SE.git
+    branch = master
+
 [submodule "libs/libultrahand"]
 	path = libs/libultrahand
 	url = https://github.com/ppkantorski/libultrahand
